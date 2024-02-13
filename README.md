@@ -1,12 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
-### 🙋‍♂️Olá! Eu sou o Ewerson.
-### Estudante de Desenvolvimento Front-end.
+### 🙋🏼‍♂️Olá! Eu sou o Ewerson.
+### 👨🏼‍💻Estudante de Desenvolvimento Front-end.
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ewerson1&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerson1&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
+ <div>
+   <a href="https://github.com/ewerson1">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewerson1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerson1&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 
